@@ -14,7 +14,19 @@ See [the official documentation](https://jupyter.org/install) on how to install 
 
 ## Citation
 
-If you use this training data or the potentials in your work, please cite the paper linked above.
+If you use this training data or the potentials in your work, please cite the paper and dataset linked above.
+
+```
+@data{3.A3MB7Z_2022,
+author = {Poul, Marvin},
+publisher = {Edmond},
+title = {{Data For: Systematic Atomic Structure Datasets for Machine Learning Potentials: Application to Defects in Magnesium}},
+year = {2022},
+version = {V1},
+doi = {10.17617/3.A3MB7Z},
+url = {https://doi.org/10.17617/3.A3MB7Z}
+}
+```
 
 ```
 @article{poul2022systematic,
