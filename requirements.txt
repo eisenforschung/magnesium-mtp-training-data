@@ -1,2 +1,2 @@
 jupyter-lab
-pyiron_contrib
+pyiron_contrib==0.1.5
