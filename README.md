@@ -12,6 +12,10 @@ pip install -r requirements.txt
 then run the `Unpack.ipynb` jupyter notebook.
 See [the official documentation](https://jupyter.org/install) on how to install jupyer.
 
+## Example Structure Generation
+
+The `RandSPGExample.ipynb` notebook shows how to setup a similar training set as in the paper for any unary.  Binary or higher compounds are also possible, but require some straightforward modifications in the code.
+
 ## Citation
 
 If you use this training data or the potentials in your work, please cite the paper and dataset linked above.
