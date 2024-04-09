@@ -33,10 +33,14 @@ url = {https://doi.org/10.17617/3.A3MB7Z}
 ```
 
 ```
-@article{poul2022systematic,
-  title={Systematic Structure Datasets for Machine Learning Potentials: Application to Moment Tensor Potentials of Magnesium and its Defects},
+@article{poul2023systematic,
+  title={Systematic atomic structure datasets for machine learning potentials: Application to defects in magnesium},
   author={Poul, Marvin and Huber, Liam and Bitzek, Erik and Neugebauer, J{\"o}rg},
-  journal={arXiv preprint arXiv:2207.04009},
-  year={2022}
+  journal={Physical Review B},
+  volume={107},
+  number={10},
+  pages={104103},
+  year={2023},
+  publisher={APS}
 }
 ```
